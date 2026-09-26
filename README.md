@@ -13,10 +13,10 @@ SpendSense is a full-stack financial analytics application built on the **MERN s
 
 ## Key Features
 
-- **Unusual Spend Detection:** Automatically flags unusually high transactions using the Interquartile Range (IQR) method and generates a short spending summary using the Gemini API.
+- **Unusual Spend Detection:** Automatically flags unusually high transactions using the Interquartile Range (IQR) method and generates a short spending summary.
 - **Spending Analytics:** Tracks total spend, average transaction value, top 5 merchants, and month-over-month spending trends.
-- **Smart Auto-Categorization:** Automatically sorts expenses into 8 categories (`Groceries`, `Transport`, `Food`, `Utilities`, `Entertainment`, `Subscriptions`, `EMI`, `Other`) based on your past transactions and common merchant keywords.
-- **Budget Tracking:** Lets you set monthly category limits and tracks actual spending with visual progress bars and over-budget alerts.
+- **Smart Auto-Categorization:** Automatically sorts expenses into 8 categories (`Groceries`, `Transport`, `Food`, `Utilities`, `Entertainment`, `Subscriptions`, `EMI`, `Other`).
+- **Budget Tracking:** Lets you set monthly category limits and tracks actual spending with visual progress bars.
 - **Filter, Edit & CSV Export:** Search by merchant, filter by category or date range, edit records inline, and export filtered data to a CSV file for Excel.
 
 ---
