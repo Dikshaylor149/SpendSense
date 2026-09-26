@@ -4,7 +4,12 @@ SpendSense is a full-stack financial analytics application built on the **MERN s
 
 ---
 <img width="1287" height="803" alt="4" src="https://github.com/user-attachments/assets/6ace53a6-b135-486b-8d2b-ef7ec4e214da" />
+<img width="1277" height="848" alt="5" src="https://github.com/user-attachments/assets/fdea40bc-48f3-4c58-888c-8502170586ba" />
 
+<img width="1282" height="718" alt="6" src="https://github.com/user-attachments/assets/f6f82909-da2d-4e18-87b0-3bd8f69236f1" />
+<img width="1310" height="521" alt="7" src="https://github.com/user-attachments/assets/2aa4da14-a2a4-4138-b335-3531e904319b" />
+
+<img width="1267" height="752" alt="8" src="https://github.com/user-attachments/assets/473eed27-a097-4375-a345-14004fcfd66b" />
 
 ## Key Analytical & Architectural Features
 
