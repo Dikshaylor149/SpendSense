@@ -1,6 +1,6 @@
 # SpendSense — Personal Expense & Statistical Analytics Platform
 
-SpendSense is a full-stack financial analytics application built on the **MERN stack (MongoDB, Express.js, React, Node.js)**. Designed from a Business & Data Analytics perspective, it goes beyond basic CRUD expense tracking by implementing **statistical outlier detection (IQR)**, **multi-pipeline MongoDB aggregations (`$facet`)**, **Budget vs. Actual variance tracking**, and a **two-tier deterministic categorization engine**.
+SpendSense is a full-stack financial analytics application built on the **MERN stack (MongoDB, Express.js, React, Node.js)**. Designed from a Business & Data Analytics perspective, it goes beyond basic CRUD expense tracking by implementing **statistical outlier detection (IQR)**, **multi-pipeline MongoDB aggregations **, **Budget vs. Actual variance tracking**, and a **two-tier deterministic categorization engine**.
 
 ---
 <img width="1287" height="803" alt="4" src="https://github.com/user-attachments/assets/6ace53a6-b135-486b-8d2b-ef7ec4e214da" />
